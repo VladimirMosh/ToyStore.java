@@ -1,0 +1,10 @@
+ID: 3, Name: кукла......, Weight: 60
+ID: 2, Name: робот......, Weight: 20
+ID: 3, Name: кукла......, Weight: 60
+ID: 1, Name: конструктор, Weight: 20
+ID: 1, Name: конструктор, Weight: 20
+ID: 3, Name: кукла......, Weight: 60
+ID: 1, Name: конструктор, Weight: 20
+ID: 3, Name: кукла......, Weight: 60
+ID: 3, Name: кукла......, Weight: 60
+ID: 2, Name: робот......, Weight: 20
